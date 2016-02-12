@@ -1,4 +1,5 @@
-/*This is an example of the EasyTransfer Library 2way communications. 
+/*
+This is an example of the EasyTransfer Library 2way communications. 
 
 This sketch is for the Arduino with the servo attached to pin 9.
 
@@ -12,7 +13,6 @@ should connect pin 12 to ground when pushed.
 And the Arduino with the potentiometer will send it's value to the one with the servo.
 The servo will move to the position based on the potentiometer.
 */
-
 #include "EasyTransferSerial/EasyTransferSerial.h"
 
 //create two objects

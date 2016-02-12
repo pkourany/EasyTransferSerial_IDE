@@ -1,0 +1,7 @@
+{
+	"name": "EasyTransferSerial",
+	"author": "Bill Porter / Paul Kourany",
+	"version": "2.1.0",
+	"license": "GNU General Public License 3+",
+	"description": "Inter-device Serial communications adapted for Particle devices"
+}

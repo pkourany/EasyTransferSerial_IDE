@@ -24,7 +24,7 @@ GNU General Public License for more details.
 #ifndef EasyTransfer_h
 #define EasyTransfer_h
 
-#include "application.h"
+#include "Particle.h"
 //#include "Stream.h"
 
 //make it a little prettier on the front end. 

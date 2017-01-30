@@ -13,7 +13,7 @@ should connect pin 12 to ground when pushed.
 And the Arduino with the potentiometer will send it's value to the one with the servo.
 The servo will move to the position based on the potentiometer.
 */
-#include "EasyTransferSerial/EasyTransferSerial.h"
+#include "EasyTransferSerial.h"
 
 //create two objects
 EasyTransfer ETin, ETout; 

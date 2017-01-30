@@ -1,4 +1,4 @@
-#include "EasyTransferSerial/EasyTransferSerial.h"
+#include "EasyTransferSerial.h"
 
 //create object
 EasyTransfer ET; 

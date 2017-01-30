@@ -2,6 +2,7 @@ EasyTransferSerial Library v2.1
 ====
 
 Adapted for Particle devices by Paul Kourany, Feb 12, 2016
+Updated to Libraries 2.0, Jan 29, 2017
 
 details and example sketch: http://www.billporter.info/easytransfer-arduino-library/
 
